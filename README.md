@@ -17,6 +17,8 @@
 - 2_pointers
   - easy
     - [valid_palindrome](2_pointers/easy/valid_palindrome.ipynb)
+- medium
+  - [2-sum-2](2_pointers/medium/2-sum-2.ipynb)
 - stack
   - easy
     - [valid_parentheses](stack/easy/valid_parentheses.ipynb)
