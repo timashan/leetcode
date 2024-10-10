@@ -26,6 +26,9 @@
 - binary_search
   - easy
     - [binary_search](binary_search/easy/binary_search.ipynb)
+- other
+  - easy
+    - [baseball_game](other/easy/baseball_game.ipynb)
 
 ## [Roadmap](https://neetcode.io/roadmap)
 
