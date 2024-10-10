@@ -29,6 +29,8 @@
 - other
   - easy
     - [baseball_game](other/easy/baseball_game.ipynb)
+  - medium
+    - [reverse_words_in_a_string](other/medium/reverse_words_in_a_string.ipynb)
 
 ## [Roadmap](https://neetcode.io/roadmap)
 
